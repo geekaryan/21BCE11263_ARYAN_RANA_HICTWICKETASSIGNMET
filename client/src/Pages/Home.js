@@ -30,7 +30,7 @@ function Home({ socket }) {
 
   return (
     <div className="App">
-      <h1>Home Page</h1>
+      <h1>21BCE11263 Aryan Rana</h1>
       <p>{socket ? socket.id : "Not Connected Yet"}</p>
       <br />
       <h2>Create Room :</h2>
